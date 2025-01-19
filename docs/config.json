@@ -224,6 +224,10 @@
               "to": "framework/react/start/api-routes"
             },
             {
+              "label": "Enviroment Variables",
+              "to": "framework/react/start/enviroments"
+            },
+            {
               "label": "SSR",
               "to": "framework/react/start/ssr"
             },
